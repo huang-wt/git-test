@@ -1,3 +1,8 @@
+class App:
+	def exec():
+		pass
+
 def main(app):
-	if app == "a":
-		print()
+	app = App()
+	app.exec()
+

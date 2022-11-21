@@ -1,6 +1,6 @@
 class App:
 	def exec():
-		pass
+		print("hello")
 
 def main(app):
 	app = App()
